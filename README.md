@@ -98,13 +98,6 @@ python test.py
 
 Feel free to fork the project and improve it. PRs are welcome!
 
----
-
-## 📜 License
-
-This project is under the [MIT License](LICENSE).
-
----
 
 > Created with ❤️ by [Costas Pinto](https://www.kaggle.com/mrcoss)
 
